@@ -1,0 +1,51 @@
+D:\term7\Company\Company\Company\Company\bin\Debug\Company.exe.config
+D:\term7\Company\Company\Company\Company\bin\Debug\Company.exe
+D:\term7\Company\Company\Company\Company\bin\Debug\Company.pdb
+D:\term7\Company\Company\Company\Company\bin\Debug\System.Windows.Forms.Ribbon.dll
+D:\term7\Company\Company\Company\Company\obj\Debug\Company.csproj.AssemblyReference.cache
+D:\term7\Company\Company\Company\Company\obj\Debug\Company.frmMain.resources
+D:\term7\Company\Company\Company\Company\obj\Debug\Company.Properties.Resources.resources
+D:\term7\Company\Company\Company\Company\obj\Debug\Company.csproj.GenerateResource.cache
+D:\term7\Company\Company\Company\Company\obj\Debug\Company.csproj.CoreCompileInputs.cache
+D:\term7\Company\Company\Company\Company\obj\Debug\Company.csproj.CopyComplete
+D:\term7\Company\Company\Company\Company\obj\Debug\Company.exe
+D:\term7\Company\Company\Company\Company\obj\Debug\Company.pdb
+D:\jsu\term7\Company\Company\Company\Company\obj\Debug\Company.csproj.AssemblyReference.cache
+D:\jsu\term7\Company\Company\Company\Company\obj\Debug\Company.frmMain.resources
+D:\jsu\term7\Company\Company\Company\Company\obj\Debug\Company.Properties.Resources.resources
+D:\jsu\term7\Company\Company\Company\Company\obj\Debug\Company.csproj.GenerateResource.cache
+D:\jsu\term7\Company\Company\Company\Company\obj\Debug\Company.csproj.CoreCompileInputs.cache
+D:\jsu\term7\Company\Company\Company\Company\obj\Debug\Company.exe
+D:\jsu\term7\Company\Company\Company\Company\obj\Debug\Company.pdb
+D:\jsu\term7\Company\Company\Company\Company\bin\Debug\Company.exe.config
+D:\jsu\term7\Company\Company\Company\Company\bin\Debug\Company.exe
+D:\jsu\term7\Company\Company\Company\Company\bin\Debug\Company.pdb
+D:\jsu\term7\Company\Company\Company\Company\bin\Debug\System.Windows.Forms.Ribbon.dll
+D:\jsu\term7\Company\Company\Company\Company\obj\Debug\Company.FPerson.resources
+D:\jsu\term7\Company\Company\Company\Company\obj\Debug\Company.csproj.CopyComplete
+D:\jsu\term7\Company\Company\New folder\Company\Company\Company\bin\Debug\Company.exe.config
+D:\jsu\term7\Company\Company\New folder\Company\Company\Company\bin\Debug\Company.exe
+D:\jsu\term7\Company\Company\New folder\Company\Company\Company\bin\Debug\Company.pdb
+D:\jsu\term7\Company\Company\New folder\Company\Company\Company\bin\Debug\System.Windows.Forms.Ribbon.dll
+D:\jsu\term7\Company\Company\New folder\Company\Company\Company\obj\Debug\Company.csproj.AssemblyReference.cache
+D:\jsu\term7\Company\Company\New folder\Company\Company\Company\obj\Debug\Company.frmMain.resources
+D:\jsu\term7\Company\Company\New folder\Company\Company\Company\obj\Debug\Company.FPerson.resources
+D:\jsu\term7\Company\Company\New folder\Company\Company\Company\obj\Debug\Company.Properties.Resources.resources
+D:\jsu\term7\Company\Company\New folder\Company\Company\Company\obj\Debug\Company.csproj.GenerateResource.cache
+D:\jsu\term7\Company\Company\New folder\Company\Company\Company\obj\Debug\Company.csproj.CoreCompileInputs.cache
+D:\jsu\term7\Company\Company\New folder\Company\Company\Company\obj\Debug\Company.csproj.CopyComplete
+D:\jsu\term7\Company\Company\New folder\Company\Company\Company\obj\Debug\Company.exe
+D:\jsu\term7\Company\Company\New folder\Company\Company\Company\obj\Debug\Company.pdb
+D:\New folder\Company\Company\Company\bin\Debug\Company.exe.config
+D:\New folder\Company\Company\Company\bin\Debug\Company.exe
+D:\New folder\Company\Company\Company\bin\Debug\Company.pdb
+D:\New folder\Company\Company\Company\bin\Debug\System.Windows.Forms.Ribbon.dll
+D:\New folder\Company\Company\Company\obj\Debug\Company.csproj.AssemblyReference.cache
+D:\New folder\Company\Company\Company\obj\Debug\Company.frmMain.resources
+D:\New folder\Company\Company\Company\obj\Debug\Company.FPerson.resources
+D:\New folder\Company\Company\Company\obj\Debug\Company.Properties.Resources.resources
+D:\New folder\Company\Company\Company\obj\Debug\Company.csproj.GenerateResource.cache
+D:\New folder\Company\Company\Company\obj\Debug\Company.csproj.CoreCompileInputs.cache
+D:\New folder\Company\Company\Company\obj\Debug\Company.csproj.CopyComplete
+D:\New folder\Company\Company\Company\obj\Debug\Company.exe
+D:\New folder\Company\Company\Company\obj\Debug\Company.pdb
